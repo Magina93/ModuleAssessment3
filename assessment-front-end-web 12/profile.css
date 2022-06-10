@@ -1,0 +1,12 @@
+body{
+    background-color: #ddd;
+    }
+    h1{
+        text-align: center;
+        border-bottom: 2px solid; 
+    }
+.message{
+    margin-right: 2em;
+    display: flex;
+    flex-direction: column;
+}
