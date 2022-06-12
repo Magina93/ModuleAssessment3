@@ -38,3 +38,18 @@ img {
 }
 
 
+#checkboxes{
+	display: flex;
+}
+
+
+.fav-btn{
+	font-size: 20px;
+	background-color: rgb(245, 245, 135);
+	border: 2px solid rgb(245, 245, 135);
+	border-radius: 6px;
+}
+.fav-btn:hover{
+	background-color: black;
+	color: rgb(245, 245, 135);
+}
